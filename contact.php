@@ -7,9 +7,13 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Contact</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit. Sed ut perspiciatis
-                unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam</p>
-        </div><!-- End Section Title -->
+            <p>
+                Get in touch with us for any inquiries or assistance. We are here to help you and provide the
+                information you need.
+                Feel free to contact us anytime.
+            </p>
+        </div>
+        <!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 

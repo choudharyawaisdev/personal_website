@@ -8,158 +8,162 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Portfolio</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit. Sed ut perspiciatis
-                unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam</p>
-        </div><!-- End Section Title -->
+            <p>
+                A showcase of my professional work including WordPress websites,
+                Shopify stores, and custom-developed web applications built with
+                performance, usability, and scalability in mind.
+            </p>
+        </div>
+        <!-- End Section Title -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
             <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+                <!-- Portfolio Filters -->
                 <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="200">
                     <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-strategy">Strategy</li>
-                    <li data-filter=".filter-finance">Finance</li>
-                    <li data-filter=".filter-operations">Operations</li>
-                    <li data-filter=".filter-technology">Technology</li>
-                </ul><!-- End Portfolio Filters -->
+                    <li data-filter=".filter-wordpress">WordPress</li>
+                    <li data-filter=".filter-shopify">Shopify</li>
+                    <li data-filter=".filter-custom">Custom Development</li>
+                </ul>
 
+                <!-- Portfolio Items -->
                 <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="300">
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-strategy">
+
+                    <!-- WordPress Project -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-card">
                             <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-1.webp" alt="Portfolio Item" class="img-fluid">
+                                <img src="assets/img/portfolio/Web1.jpg" alt="Looking Glass Academy" class="img-fluid">
                                 <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-1.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
+                                    <a href="assets/img/portfolio/Web1.jpg" class="glightbox portfolio-lightbox">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+                                    <a href="https://lookingglassacademy.net/" target="_blank"
+                                        class="portfolio-details-link">
+                                        <i class="bi bi-link"></i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h4>Business Growth Strategy</h4>
-                                <p>Strategic Planning</p>
+                                <h4>Looking Glass Academy</h4>
+                                <p>Learning Management System (LMS)</p>
                                 <div class="portfolio-tags">
-                                    <span>Strategy</span>
-                                    <span>Consulting</span>
+                                    <span>WordPress</span>
+                                    <span>LMS</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-finance">
+                    <!-- WordPress E-Commerce -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-card">
                             <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-2.webp" alt="Portfolio Item" class="img-fluid">
+                                <img src="assets/img/portfolio/Web2.jpg" alt="Sara Store" class="img-fluid">
                                 <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-2.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
+                                    <a href="assets/img/portfolio/Web2.jpg" class="glightbox portfolio-lightbox">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+                                    <a href="https://sarastore.pk/" class="portfolio-details-link">
+                                        <i class="bi bi-link"></i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h4>Financial Restructuring</h4>
-                                <p>Financial Advisory</p>
+                                <h4>Sara Store</h4>
+                                <p>E-Commerce / Online Shopping Website</p>
                                 <div class="portfolio-tags">
-                                    <span>Finance</span>
-                                    <span>Investment</span>
+                                    <span>WordPress</span>
+                                    <span>WooCommerce</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-operations">
+                    <!-- WordPress Custom Design -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-card">
                             <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-3.webp" alt="Portfolio Item" class="img-fluid">
+                                <img src="assets/img/portfolio/Web3.jpg" alt="Box Wala" class="img-fluid">
                                 <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-3.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
+                                    <a href="assets/img/portfolio/Web3.jpg" class="glightbox portfolio-lightbox">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+                                    <a href="https://boxwala.pk/" class="portfolio-details-link">
+                                        <i class="bi bi-link"></i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h4>Supply Chain Optimization</h4>
-                                <p>Operations Management</p>
+                                <h4>Box Wala</h4>
+                                <p>Custom Packaging & Box Design Platform</p>
                                 <div class="portfolio-tags">
-                                    <span>Operations</span>
-                                    <span>Logistics</span>
+                                    <span>WordPress</span>
+                                    <span>Custom Design</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-technology">
+                    <!-- Custom Development -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-custom">
                         <div class="portfolio-card">
                             <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-4.webp" alt="Portfolio Item" class="img-fluid">
+                                <img src="assets/img/portfolio/Web4.jpg" alt="Cafe Chinos" class="img-fluid">
                                 <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-4.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
+                                    <a href="assets/img/portfolio/Web4.jpg" class="glightbox portfolio-lightbox">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+                                    <a href="https://cafechinos.cafe/" class="portfolio-details-link">
+                                        <i class="bi bi-link"></i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h4>Digital Transformation</h4>
-                                <p>Technology Consulting</p>
+                                <h4>Cafe Chinos</h4>
+                                <p>Online Food Ordering System</p>
                                 <div class="portfolio-tags">
-                                    <span>Technology</span>
-                                    <span>Innovation</span>
+                                    <span>Custom Development</span>
+                                    <span>PHP</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-strategy">
+                    <!-- Shopify Store -->
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-shopify">
                         <div class="portfolio-card">
                             <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-5.webp" alt="Portfolio Item" class="img-fluid">
+                                <img src="assets/img/portfolio/Web5.jpg" alt="Niwali" class="img-fluid">
                                 <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-5.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
+                                    <a href="assets/img/portfolio/Web5.jpg" class="glightbox portfolio-lightbox">
+                                        <i class="bi bi-plus"></i>
+                                    </a>
+                                    <a href="https://niwali.com/" class="portfolio-details-link">
+                                        <i class="bi bi-link"></i>
+                                    </a>
                                 </div>
                             </div>
                             <div class="portfolio-info">
-                                <h4>Market Expansion</h4>
-                                <p>Strategic Planning</p>
+                                <h4>Niwali</h4>
+                                <p>Herbal & Medicine E-Commerce Store</p>
                                 <div class="portfolio-tags">
-                                    <span>Strategy</span>
-                                    <span>Growth</span>
+                                    <span>Shopify</span>
+                                    <span>E-Commerce</span>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-finance">
-                        <div class="portfolio-card">
-                            <div class="portfolio-img">
-                                <img src="assets/img/portfolio/portfolio-6.webp" alt="Portfolio Item" class="img-fluid">
-                                <div class="portfolio-overlay">
-                                    <a href="assets/img/portfolio/portfolio-6.webp"
-                                        class="glightbox portfolio-lightbox"><i class="bi bi-plus"></i></a>
-                                    <a href="#" class="portfolio-details-link"><i class="bi bi-link"></i></a>
-                                </div>
-                            </div>
-                            <div class="portfolio-info">
-                                <h4>Investment Strategy</h4>
-                                <p>Financial Advisory</p>
-                                <div class="portfolio-tags">
-                                    <span>Finance</span>
-                                    <span>Investment</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div><!-- End Portfolio Items Container -->
+                </div><!-- End Portfolio Container -->
 
             </div>
-
-            <div class="text-center mt-5" data-aos="fade-up" data-aos-delay="400">
-                <a href="#portfolio" class="btn btn-primary">View All Case Studies</a>
-            </div>
-
         </div>
 
-    </section><!-- /Portfolio Section -->
+    </section>
+    <!-- End Portfolio Section -->
 
 </main>
 

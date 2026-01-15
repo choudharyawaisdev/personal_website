@@ -28,9 +28,8 @@
                 </div>
 
                 <div class="social-links" data-aos="fade-up" data-aos-delay="600">
-                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                    <a href="#"><i class="bi bi-github"></i></a>
-                    <a href="#"><i class="bi bi-twitter"></i></a>
+                    <a href="https://www.linkedin.com/in/choudhary-awais-62b259273/"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://github.com/choudharyawaisdev"><i class="bi bi-github"></i></a>
                 </div>
                 </div>
             </div>
