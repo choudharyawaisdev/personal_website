@@ -6,9 +6,8 @@
         <div class="container section-title" data-aos="fade-up">
             <h2>About</h2>
             <p>
-                I focus on building practical, reliable, and scalable web solutions by
-                understanding real business problems and translating them into clean,
-                maintainable systems.
+                Developing scalable web solutions requires a deep understanding of business needs. By focusing on clean
+                code and maintainable systems, I transform practical requirements into dependable digital tools
             </p>
         </div><!-- End Section Title -->
         <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -21,14 +20,15 @@
                             Hi, I'm Awais — a backend-focused web developer building systems that actually work
                         </h2>
                         <p class="lead">
-                            I specialize in developing web applications with a strong emphasis on backend logic,
-                            database structure, and long-term maintainability. My approach is simple:
-                            understand the workflow first, then write code that supports real usage.
+                            Specializing in robust web applications, the focus remains on strong backend logic,
+                            efficient database structures, and long-term maintainability. Success comes from
+                            understanding the workflow first, ensuring the final code supports real-world usage.
                         </p>
                         <p>
-                            I mostly work with Laravel and modern web technologies to build business systems such as
-                            inventory management, sales & purchase modules, payment tracking, and custom dashboards.
-                            I prefer clarity, performance, and clean architecture over shortcuts or unnecessary
+                            Expertise lies in using Laravel and modern web technologies to build essential business
+                            systems—ranging
+                            from inventory management and sales modules to payment tracking and custom dashboards.
+                            Priority is always given to clarity, performance, and clean architecture over temporary
                             trends.
                         </p>
 
@@ -301,7 +301,7 @@
 
                         <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
                             <h2>
-                                <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1"
+                                <span data-purecounter-start="0" data-purecounter-end="4" data-purecounter-duration="1"
                                     class="purecounter"></span>+
                             </h2>
                             <p>Years of Experience</p>
@@ -321,49 +321,46 @@
 
     </section><!-- /Stats Section -->
 
-    <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section">
 
-        <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <h2>Testimonials</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-        </div><!-- End Section Title -->
-
+            <p>Feedback from clients on building reliable systems and scalable business solutions</p>
+        </div>
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
             <div class="swiper init-swiper">
                 <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              }
-            }
-          </script>
+                {
+                    "loop": true,
+                    "speed": 600,
+                    "autoplay": {
+                        "delay": 5000
+                    },
+                    "slidesPerView": "auto",
+                    "pagination": {
+                        "el": ".swiper-pagination",
+                        "type": "bullets",
+                        "clickable": true
+                    }
+                }
+            </script>
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <div class="row gy-4 justify-content-center">
-                                <div class="col-lg-6">
-                                    <div class="testimonial-content">
+                                <div class="col-lg-8">
+                                    <div class="testimonial-content text-center">
                                         <p>
                                             <i class="bi bi-quote quote-icon-left"></i>
-                                            <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora
-                                                entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam
-                                                eget nibh et. Maecen aliquam, risus at semper.</span>
+                                            <span>The custom inventory and order tracking system built for my Shopify
+                                                store has completely changed how we manage our home decor stock.
+                                                Everything is now automated and error-free.</span>
                                             <i class="bi bi-quote quote-icon-right"></i>
                                         </p>
-                                        <h3>Saul Goodman</h3>
-                                        <h4>Ceo &amp; Founder</h4>
+                                        <h3>Kashif Mirza</h3>
+                                        <h4>Owner, Home Decor Store</h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                                 class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -371,28 +368,24 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-2 text-center">
-                                    <img src="assets/img/person/person-m-9.webp" class="img-fluid testimonial-img"
-                                        alt="">
-                                </div>
                             </div>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <div class="row gy-4 justify-content-center">
-                                <div class="col-lg-6">
-                                    <div class="testimonial-content">
+                                <div class="col-lg-8">
+                                    <div class="testimonial-content text-center">
                                         <p>
                                             <i class="bi bi-quote quote-icon-left"></i>
-                                            <span>Export tempor illum tamen malis malis eram quae irure esse labore
-                                                quem cillum quid cillum eram malis quorum velit fore eram velit sunt
-                                                aliqua noster fugiat irure amet legam anim culpa.</span>
+                                            <span>Developing a specialized production and sales module for our clothing
+                                                brand was a complex task. The backend logic is solid, and the system
+                                                handles our high-volume manufacturing data perfectly.</span>
                                             <i class="bi bi-quote quote-icon-right"></i>
                                         </p>
-                                        <h3>Sara Wilsson</h3>
-                                        <h4>Designer</h4>
+                                        <h3>Shahid</h3>
+                                        <h4>Founder, Clothing Manufacturing Brand</h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                                 class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -400,28 +393,24 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-2 text-center">
-                                    <img src="assets/img/person/person-f-5.webp" class="img-fluid testimonial-img"
-                                        alt="">
-                                </div>
                             </div>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <div class="row gy-4 justify-content-center">
-                                <div class="col-lg-6">
-                                    <div class="testimonial-content">
+                                <div class="col-lg-8">
+                                    <div class="testimonial-content text-center">
                                         <p>
                                             <i class="bi bi-quote quote-icon-left"></i>
-                                            <span>Enim nisi quem export duis labore cillum quae magna enim sint
-                                                quorum nulla quem veniam duis minim tempor labore quem eram duis
-                                                noster aute amet eram fore quis sint minim.</span>
+                                            <span>Workflows were prioritized before any code was written. This resulted
+                                                in a clean, maintainable dashboard that our accounts team uses every day
+                                                for payment tracking without any lag.</span>
                                             <i class="bi bi-quote quote-icon-right"></i>
                                         </p>
-                                        <h3>Jena Karlis</h3>
-                                        <h4>Store Owner</h4>
+                                        <h3>Aman Raza</h3>
+                                        <h4>Operations Manager</h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                                 class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -429,28 +418,24 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-2 text-center">
-                                    <img src="assets/img/person/person-f-12.webp" class="img-fluid testimonial-img"
-                                        alt="">
-                                </div>
                             </div>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
                             <div class="row gy-4 justify-content-center">
-                                <div class="col-lg-6">
-                                    <div class="testimonial-content">
+                                <div class="col-lg-8">
+                                    <div class="testimonial-content text-center">
                                         <p>
                                             <i class="bi bi-quote quote-icon-left"></i>
-                                            <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos
-                                                export minim fugiat minim velit minim dolor enim duis veniam ipsum
-                                                anim magna sunt elit fore quem dolore labore illum veniam.</span>
+                                            <span>Scale and performance were our main concerns. The Laravel-based
+                                                solution provided for our procurement system is incredibly fast and
+                                                handles our database queries with ease.</span>
                                             <i class="bi bi-quote quote-icon-right"></i>
                                         </p>
-                                        <h3>John Larson</h3>
-                                        <h4>Entrepreneur</h4>
+                                        <h3>Farhan Ahmed</h3>
+                                        <h4>Technical Director</h4>
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                                 class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
@@ -458,21 +443,39 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-2 text-center">
-                                    <img src="assets/img/person/person-m-12.webp" class="img-fluid testimonial-img"
-                                        alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <div class="row gy-4 justify-content-center">
+                                <div class="col-lg-8">
+                                    <div class="testimonial-content text-center">
+                                        <p>
+                                            <i class="bi bi-quote quote-icon-left"></i>
+                                            <span>Professionalism and clean architecture are evident in every module. It
+                                                is rare to find a developer who understands the business side as well as
+                                                the technical side.</span>
+                                            <i class="bi bi-quote quote-icon-right"></i>
+                                        </p>
+                                        <h3>Zainab Malik</h3>
+                                        <h4>Business Consultant</h4>
+                                        <div class="stars">
+                                            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                                                class="bi bi-star-fill"></i>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                 </div>
                 <div class="swiper-pagination"></div>
             </div>
-
         </div>
-
-    </section><!-- /Testimonials Section -->
-
+    </section>
 </main>
 <?php include 'layouts/footer.php'; ?>

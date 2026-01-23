@@ -7,7 +7,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Offering personalized solutions to elevate your business digitally.</p>
+        <p>Professional digital services focused on quality, performance, and business growth.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -21,9 +21,8 @@
                         <i class="bi bi-code-slash"></i>
                     </div>
                     <div class="service-content">
-                        <h3>Custom Software</h3>
-                        <p>I develop tailored software solutions specifically for your business, designed to meet
-                            your unique requirements and workflow.</p>
+                        <h3>Custom Software Development</h3>
+                        <p>Custom software solutions designed to match business processes, improve efficiency, and support long-term growth.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -35,9 +34,8 @@
                         <i class="bi bi-laptop"></i>
                     </div>
                     <div class="service-content">
-                        <h3>Custom Website</h3>
-                        <p>I create fully customized websites that reflect your brand identity and provide an
-                            excellent user experience.</p>
+                        <h3>Custom Website Development</h3>
+                        <p>Responsive and user-friendly websites built for strong branding, fast performance, and a smooth user experience.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -50,8 +48,7 @@
                     </div>
                     <div class="service-content">
                         <h3>WordPress Development</h3>
-                        <p>I build professional WordPress websites, from simple blogs to fully-featured business
-                            platforms, optimized for performance and SEO.</p>
+                        <p>SEO-friendly WordPress websites suitable for blogs, business sites, and content management systems.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -63,9 +60,8 @@
                         <i class="bi bi-shop"></i>
                     </div>
                     <div class="service-content">
-                        <h3>Shopify Stores</h3>
-                        <p>I create and manage Shopify e-commerce stores, ensuring smooth transactions, beautiful
-                            design, and easy management.</p>
+                        <h3>Shopify Store Development</h3>
+                        <p>Secure and scalable Shopify stores with clean design, easy product management, and smooth checkout.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -77,9 +73,8 @@
                         <i class="bi bi-megaphone"></i>
                     </div>
                     <div class="service-content">
-                        <h3>Marketing & Social Ads</h3>
-                        <p>I run Facebook and Instagram advertising campaigns, tailored to your business goals, to
-                            maximize engagement and ROI.</p>
+                        <h3>Digital Marketing & Social Ads</h3>
+                        <p>Result-driven Facebook and Instagram advertising campaigns focused on reach, traffic, and conversions.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->
@@ -92,8 +87,7 @@
                     </div>
                     <div class="service-content">
                         <h3>Social Media Management</h3>
-                        <p>I manage your social media presence across platforms, creating content, scheduling posts,
-                            and building your online audience.</p>
+                        <p>Complete social media management including content planning, posting, and audience engagement.</p>
                     </div>
                 </div>
             </div><!-- End Service Item -->

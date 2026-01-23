@@ -35,8 +35,9 @@
     <header id="header" class="header d-flex align-items-center light-background sticky-top">
         <div class="container position-relative d-flex align-items-center justify-content-between">
             <a href="index.php" class="logo d-flex align-items-center me-auto me-xl-0">
-                <img src="assets/img/profile/choudhary_awais_pic.png" alt="">
-                <h1 class="sitename"></h1>
+                <!-- <img src="assets/img/profile/choudhary_awais_pic.png" alt=""> -->
+
+                <h1 class="sitename">Choudhary <span style="color:#1387c1"> Awais</span></h1>
             </a>
             <nav id="navmenu" class="navmenu">
                 <ul>
